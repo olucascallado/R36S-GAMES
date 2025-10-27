@@ -1,0 +1,5 @@
+{
+  "name": "R36S Game Database",
+  "description": "A fast, searchable database of games available on the R36S and R36S Pro retro gaming consoles. Easily find which games are included, browse by console, and view statistics on the entire game library.",
+  "requestFramePermissions": []
+}
