@@ -34599,6 +34599,6 @@ export const GAME_DATA: ConsoleData[] = [
         "JoJo no Kimyō na Bōken: Mirai e no Isan (JoJo’s Bizarre Adventure: Heritage for the Future)",
         "Street Fighter III: New Generation",
         "Street Fighter III: 2nd Impact – Giant Attack",
-        "Street Fighter III: 3rd Strike – Fight for the Future"
+        "Street Fighter III: 3rd Strike – Fight for the Future",
     ]
 };
