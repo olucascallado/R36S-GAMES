@@ -34601,4 +34601,6 @@ export const GAME_DATA: ConsoleData[] = [
         "Street Fighter III: 2nd Impact – Giant Attack",
         "Street Fighter III: 3rd Strike – Fight for the Future",
     ]
-};
+}
+
+];
